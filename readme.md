@@ -9,6 +9,8 @@ An experiment in user management
 ### Project setup
 
 ```
+git clone git@github.com:oliverturner/converge.git
+cd converge
 npm install
 ```
 
